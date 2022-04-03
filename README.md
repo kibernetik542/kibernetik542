@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on itera company and we have multi cloud management tool over k8s orchestration. taikun.cloud
+- 🌱 I’m currently learning advanced parts of k8s and golang
+- 👯 I’m currently collabrating with k8s c# client
+- 📫 How to reach me: arzu.suleymanov@itera.io
